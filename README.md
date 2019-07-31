@@ -1,5 +1,5 @@
 # connect-four
-A variant of the Connect Four game (C language) || ENGGEN 131 Assignment
+A variant of the Connect Four game (C language) || ENGGEN 131 Project
 
 Implemented a bot player for players to verse against (exhibits basic defense moves).
 Header file supplied by the university.
